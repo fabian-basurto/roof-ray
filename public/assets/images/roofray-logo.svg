@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="64" viewBox="0 0 280 64" fill="none" role="img" aria-labelledby="title">
+  <title id="title">RoofRay</title>
+  <g stroke="#FFB054" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="39" cy="22" r="9" fill="#FFB054" stroke="none"/>
+    <path d="M39 5v4m17 13h-4M51 10l-3 3M27 10l3 3"/>
+    <path d="M7 38l23-18 23 18M13 34v22h34V34"/>
+    <path d="M23 56V42h14v14"/>
+  </g>
+  <text x="69" y="46" fill="#FFB054" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">RoofRay</text>
+</svg>
